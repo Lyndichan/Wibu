@@ -26,7 +26,7 @@ global.sgc = 'https://chat.whatsapp.com/GIZavmvJSZ13W9X9qFCa7z'
 // Donasi
 global.psaweria = 'https://sociabuzz.com/myukodev'
 global.ptrakterr = 'https://trakteer.id/myukodev'
-global.povo = '081977815539'
+global.povo = '083809861522'
 // Info Wait
 global.wait = '_Sedang Di Proses, Mohon Tunggu_....'
 global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
