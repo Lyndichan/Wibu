@@ -1,11 +1,11 @@
 {
-  "name": "Whatsapp Bot by Yann",
+  "name": "Whatsapp Bot by YannXD",
   "description": "Whatsapp Make Your Job Easy",
   "keywords": [
     "whatsapp bot",
     "nodejs"
   ],
-  "repository": "https://github.com/Zeltoria/Clara-MD",
+  "repository": "https://github.com/Lyndichan/Wibu",
     "buildpacks": [
     {
       "url": "heroku/nodejs"
